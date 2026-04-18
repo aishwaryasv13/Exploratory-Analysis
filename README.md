@@ -1,3 +1,5 @@
+Titanic Dataset — Exploratory Data Analysis (EDA)
+
 Key Questions Explored
 
 Did the port of embarkation affect survival chances?
